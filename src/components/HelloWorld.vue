@@ -75,7 +75,7 @@ export default {
       patientdata: {},
         clientId: "5e38365a-6b1f-4fd1-ad1a-70569e51683a", // Replace with your client id
       redirect: import.meta.env.PROD
-        ? "https://lucid-wozniak-940eae.netlify.app"
+        ? "https://main.d3hokjthccpmzg.amplifyapp.com"
         : "https://main.d3hokjthccpmzg.amplifyapp.com",
     };
   },
